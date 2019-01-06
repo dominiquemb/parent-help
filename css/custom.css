@@ -1,0 +1,149 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+#intro.hero-image {
+  background: linear-gradient(45deg, rgba(29, 224, 153, 0.8), rgba(29, 200, 205, 0.8)), url("../img/stock-photo-happy-family-jumping-together-on-the-beach-286469927-medium.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+#intro .intro-text {
+  top: 200px;
+}
+
+.intro-text h2 {
+  font-size: 36px !important;
+  line-height: 1 !important;
+  display: inline-block !important;
+  font-family: "Montserrat", sans-serif !important;
+  font-weight: 300 !important;
+  letter-spacing: 3px !important;
+}
+
+#intro p {
+  font-size: 18px;
+}
+
+.checklist {
+  text-align: left;
+  font-size: 16px;
+}
+
+.checklist i {
+  font-size: 20px;
+  padding-right: 4px;
+  color: #1dc8cd;
+}
+
+.checklist ul {
+  list-style: none;
+  padding: 0;
+}
+
+.checklist ul li {
+  padding-bottom: 10px;
+}
+
+.contact-centered {
+  margin: auto;
+ /* width: 400px;*/
+}
+
+.logo img {
+  width: 220px;
+}
+
+#about .about-img img {
+/*
+  width: 595px;
+  height: 415px;
+*/
+  width: 100%;
+  height: auto;
+}
+
+#features .features-img img {
+/*
+  width: 615px;
+  height: auto;
+*/
+  width: 100%;
+  height: auto;
+  margin-bottom: 25px;
+}
+
+#advanced-features .advanced-feature-img-left {
+  width: 595px;
+  height: auto;
+}
+
+#advanced-features .wow {
+  max-width: 500px;
+}
+
+#advanced-features .advanced-feature-img-right {
+  width: 645px;
+  max-width: 100%;
+  padding: 0px;
+  margin-bottom: 25px;
+}
+
+.contact-image {
+  width: 100%;
+  margin-bottom: 25px;
+}
+
+#features .description {
+/*  text-align: justify;
+*/
+}
+
+#our-ethos {
+  clear: both;
+}
+
+#address {
+  font-size: 16px;
+  line-height: 24px;
+  font-family: "Montserrat", sans-serif;
+  color: #888888;
+}
+
+body h1,
+body h2,
+body h3,
+body h3,
+body h4,
+body h5,
+body h6 {
+  color: #000;
+}
+
+body .section-header .section-title {
+  font-size: 35px;
+}
+
+body .intro-text h2 {
+  text-shadow: 1px 1px 10px #000;
+  font-size: 62px !important;
+  font-weight: 100 !important;
+}
+
+body #intro p {
+  text-shadow: 1px 1px 6px #000;
+  color: #ddfeff;
+  font-size: 24px;
+}
+
+body .section-header .section-description {
+  font-style: inherit;
+  font-size: 17px;
+  color: #666;
+}
+
+.our-services-stage {
+  margin-top: 20px;
+}
