@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Theme adapted from the below:
 
 Theme Name: Avilon
 Theme URL: https://bootstrapmade.com/avilon-bootstrap-landing-page-template/
